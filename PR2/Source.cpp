@@ -23,8 +23,8 @@ int main()
 	z2 = (1 + 2 * sin(b) * cos(b)) / (cos(b) * cos(b) - sin(b) * sin(b));
 
 	cout << endl;
-	cout << "z1 = " << z1 << endl;
-	cout << "z2 = " << z2 << endl;
+	cout << "z1 = " << z1 << endl; //виведення результату обчислення 1 
+	cout << "z2 = " << z2 << endl; //виведення результату обчислення 2
 
 	cin.get();
 	return 0;
