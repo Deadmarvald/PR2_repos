@@ -11,10 +11,11 @@ using namespace std;
 
 int main()
 {
-	double a;
-	double b;
-	double z1;
+	double a; //вхідний параметр №1
+	double b; //вхідний парметр №2
+	double z1; 
 	double z2;
+
 	cout << "a = "; cin >> a;
 	cout << "b = "; cin >> b;
 
