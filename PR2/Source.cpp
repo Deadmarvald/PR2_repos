@@ -13,8 +13,8 @@ int main()
 {
 	double a; //вхідний параметр №1
 	double b; //вхідний парметр №2
-	double z1; 
-	double z2;
+	double z1; //результат обчислення 1-го виразу
+	double z2; //результат обчислення 2-го виразу
 
 	cout << "a = "; cin >> a;
 	cout << "b = "; cin >> b;
